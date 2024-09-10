@@ -9,7 +9,8 @@ Mobile runner/arcade
 
 ## Inspiration
 ### Temple Run
-Temple Run is the inspiration behind the player perspective and gameplay. In Temple Run, players endlessly run down a lane, dodging obstacles and collecting coins until they hit an obstacle and must start over. Late to My Gate differs from Temple Run in that it is not endless, there are more nuanced environmental hazards, and that players will need to plan their route to navigate the airport.[
+Temple Run is the inspiration behind the player perspective and gameplay. In Temple Run, players endlessly run down a lane, dodging obstacles and collecting coins until they hit an obstacle and must start over. Late to My Gate differs from Temple Run in that it is not endless, there are more nuanced environmental hazards, and that players will need to plan their route to navigate the airport.
+[
 ](https://www.google.com/url?sa=i&url=https%3A%2F%2Fthebinarymessiah.com%2F2012%2F04%2F04%2Ftemple-run-810%2F&psig=AOvVaw1DuRDVS8FngJtbrYO8zhxa&ust=1726077721749000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLDq6N_6uIgDFQAAAAAdAAAAABAE)![image](https://github.com/user-attachments/assets/360c282d-3018-426c-b698-e3eca3ecaaae)
 
 ### Real Life Experiences at the Airport
